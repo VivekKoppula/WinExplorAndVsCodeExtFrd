@@ -1,0 +1,9 @@
+
+
+cd ../..
+
+cd WinExplorer/SimplePsForRegistryEntry/
+
+
+
+
